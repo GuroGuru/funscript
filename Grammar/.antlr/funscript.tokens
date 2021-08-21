@@ -1,0 +1,14 @@
+HASH=1
+BLOCK=2
+COLON=3
+SQ=4
+DQ=5
+COMMENT=6
+TEXT=7
+LITERAL=8
+WS=9
+'#'=1
+'block'=2
+':'=3
+'\''=4
+'"'=5
